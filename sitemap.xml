@@ -1,1051 +1,1059 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://yorkfish.github.io/exercises/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/preview/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/preview/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/01_Single_Number/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/preview-april/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/02_Happy_Number/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/01-single-number/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/03_Maximun_Subarray/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/02-happy-number/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/04_Move_Zeros/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/03-maximun-subarray/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/05_Best_Time_to_Buy_and_Sell_Stock_II/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/04-move-zeros/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/06_Group_Anagrams/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/05-best-time-to-buy-and-sell-stock-ii/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/07_Counting_Elements/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/06-group-anagrams/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/08_Middle_of_the_Linked_List/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/07-counting-elements/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/09_Backspace_String_Compare/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/08-middle-of-the-linked-List/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/10_Min_Stack/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/09-backspace-string-compare/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/11_Diameter_of_Binary_Tree/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/10-min-stack/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/12_Last_Stone_Weight/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/11-diameter-of-binary-tree/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/13_Contiguous_Array/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/12-last-stone-weight/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/14_Perform_String_Shifts/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/13-contiguous-array/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/15_Product_of_Array_Except_Self/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/14-perform-string-shifts/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/16_Valid_Parenthesis_String/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/15-product-of-array-except-self/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/17_Number_of_Islands/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/16-valid-parenthesis-string/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/18_Minimum_Path_Sum/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/17-number-of-islands/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/19_Search_in_Rotated_Sorted_Array/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/18-minimum-path-sum/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/20_Construct_Binary_Search_Tree_from_Preorder_Traversal/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/19-search-in-rotated-sorted-array/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/21_Leftmost_Column_with_at_Least_a_One/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/20-construct-bst-from-preorder-traversal/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/22_Subarray_Sum_Equals_K/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/21-leftmost-column-with-at-least-a-one/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/23_Bitwise_AND_of_Numbers_Range/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/22-subarray-sum-equals-k/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/24_LRU_Cache/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/23-bitwise-and-of-numbers-range/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/25_Jump_Game/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/24-lru-cache/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/26_Longset_Common_Subsequence/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/25-jump-game/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/27_Maximal_Square/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/26-longset-common-subsequence/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/28_First_Unique_Number/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/27-maximal-square/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/29_Binary_Tree_Maximum_Path_Sum/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/28-first-unique-number/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Solutions/30_Check_If_a_String_is_a_Valid_Sequence/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/29-binary-tree-maximum-path-sum/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Summarize/01_return/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/solutions/30-check-if-a-string-is-a-valid-sequence/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Summarize/04_replace_goto/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/summarize/01-return/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Summarize/05_array_initial/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/summarize/04-replace-goto/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Summarize/06_12_qsort/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/summarize/05-array-initial/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Summarize/09_f%28void%29/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/summarize/06-12-qsort/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Summarize/09_string/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/summarize/09-f%28void%29/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Summarize/10_struct_pointer/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/summarize/09-string/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Summarize/14_modulus_operation/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/summarize/10-struct-pointer/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/April/Summarize/19_dichotomy/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/summarize/14-modulus-operation/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/may/preview/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/april/summarize/19-dichotomy/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/may/solutions/01-first-bad-version/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/may/preview-may/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/may/solutions/02-jewels-and-stones/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/may/solutions/01-first-bad-version/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/may/solutions/03-ransom-note/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/may/solutions/02-jewels-and-stones/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/may/solutions/04-number-complement/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/may/solutions/03-ransom-note/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/may/solutions/05-first-unique-character-in-a-string/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/may/solutions/04-number-complement/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/may/solutions/06-majority-element/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/may/solutions/05-first-unique-character-in-a-string/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/may/solutions/07-cousins-in-binary-tree/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/may/solutions/06-majority-element/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/may/solutions/08-check-if-it-is-a-straight-line/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/may/solutions/07-cousins-in-binary-tree/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/may/solutions/09-valid-perfect-square/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/may/solutions/08-check-if-it-is-a-straight-line/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/may/solutions/10-find-the-town-judge/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/may/solutions/09-valid-perfect-square/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/may/solutions/11-flood-fill/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/may/solutions/10-find-the-town-judge/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/may/solutions/12-single-element-in-a-sorted-array/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/may/solutions/11-flood-fill/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/may/solutions/13-remove-k-digits/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/may/solutions/12-single-element-in-a-sorted-array/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/may/solutions/14-implement-trie/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/may/solutions/13-remove-k-digits/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CChallenge/may/solutions/15-maximum-sum-circular-subarray/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/may/solutions/14-implement-trie/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/preview/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/c-challenge/may/solutions/15-maximum-sum-circular-subarray/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/01_find_in_2d_array/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/preview/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/02_replace_space/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/preview-python/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/03_print_list_from_tail_to_head/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/01-find-in-2d-array/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/04_reconstruct_binary_tree/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/02-replace-space/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/05_two_stacks_implement_queue/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/03-print-list-from-tail-to-head/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/06_min_num_in_rotate_array/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/04-reconstruct-binary-tree/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/07_fibonacci/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/05-two-stacks-implement-queue/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/08_jump_floorI/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/06-min-num-in-rotate-array/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/09_jump_floorII/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/07-fibonacci/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/10_rectangle_cover/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/08-jump-floor-i/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/11_number_of_one/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/09-jump-floor-ii/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/12_power/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/10-rectangle-cover/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/13_reorder_array/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/11-number-of-one/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/14_find_kth_to_tail/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/12-power/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/15_reverse_linkedlist/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/13-reorder-array/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/16_merge_two_sorted_linkedlist/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/14-find-kth-to-tail/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/17_has_subtree/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/15-reverse-linked-list/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/18_mirror_image_of_binary_tree/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/16-merge-two-sorted-linked-list/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/19_print_matrix_clockwise/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/17-has-subtree/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/20_stack_with_min_val/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/18-mirror-image-of-binary-tree/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/21_is_pop_order/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/19-print-matrix-clockwise/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/22_print_from_top_to_bottom/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/20-stack-with-min-val/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/23_verify_sequence_of_bst/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/21-is-pop-order/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/24_find_path/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/22-print-from-top-to-bottom/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/25_clone/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/23-verify-sequence-of-bst/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/26_convert/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/24-find-path/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/27_permutation/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/25-clone/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/28_more_than_half_num/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/26-convert/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/29_get_least_nums/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/27-permutation/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/30_find_greatest_sum_of_subarray/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/28-more-than-half-num/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/31_num_of_1_between_1_and_n/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/29-get-least-nums/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/32_print_min_num/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/30-find-greatest-sum-of-subarray/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/33_ugly_num/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/31-num-of-1-between-1-and-n/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/34_first_not_repeating_char/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/32-print-min-num/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/35_inverse_pairs/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/33-ugly-num/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/36_find_first_common_node/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/34-first-not-repeating-char/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/37_get_num_of_k/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/35-inverse-pairs/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/38_tree_depth/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/36-find-first-common-node/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/39_is_balanced/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/37-get-num-of-k/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/40_find_nums_appear_once/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/38-tree-depth/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/41_find_continuous_sequence/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/39-is-balanced/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/42_find_nums_with_sum/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/40-find-nums-appear-once/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/43_left_rotate_string/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/41-find-continuous-sequence/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/44_reverse_sentence/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/42-find-nums-with-sum/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/45_is_continuous/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/43-left-rotate-string/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/46_last_remaining/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/44-reverse-sentence/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/47_sum/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/45-is-continuous/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/48_add/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/46-last-remaining/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/49_str_to_int/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/47-sum/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/50_duplicate/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/48-add/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/51_multiply/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/49-str-to-int/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/52_match/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/50-duplicate/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/53_is_numeric/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/51-multiply/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/54_first_appearing_once/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/52-match/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/55_entry_node_of_loop/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/53-is-numeric/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/56_delete_duplication/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/54-first-appearing-once/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/57_get_next/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/55-entry-node-of-loop/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/58_is_symmetrical/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/56-delete-duplication/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/59_z_print/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/57-get-next/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/60_print_line_by_line/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/58-is-symmetrical/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/61_serialize_and_deserialize/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/59-z-print/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/62_kth_node/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/60-print-line-by-line/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/63_get_median/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/61-serialize-and-deserialize/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/64_max_in_windows/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/62-kth-node/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/65_has_path/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/63-get-median/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/66_moving_count/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/64-max-in-windows/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Solutions/67_cut_rope/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/65-has-path/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Summarize/02_replace_space/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/66-moving-count/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Summarize/11_number_of_one/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/solutions/67-cut-rope/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Summarize/19_print_matrix_clockwise/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/summarize/02-replace-space/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Summarize/23_verify_sequence_of_bst/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/summarize/11-number-of-one/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Difference/11_number_of_one/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/summarize/19-print-matrix-clockwise/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Difference/19_print_matrix_clockwise/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/summarize/23-verify-sequence-of-bst/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Difference/32_print_min_num/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/difference/11-number-of-one/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Difference/53_is_numeric/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/difference/19-print-matrix-clockwise/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/CodingInterviews/Python/Difference/63_get_median/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/difference/32-print-min-num/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/preview/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/difference/53-is-numeric/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Introduce/01_preview/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/coding-interviews/python/difference/63-get-median/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Introduce/02_sequence_table/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/preview/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Introduce/03_linked_list/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/introduce/01-preview/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Introduce/04_queue/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/introduce/02-sequence-table/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Introduce/05_deque/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/introduce/03-linked-list/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Introduce/06_stack/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/introduce/04-queue/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Introduce/07_bubble_sort/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/introduce/05-deque/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Introduce/08_select_sort/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/introduce/06-stack/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Introduce/09_insert_sort/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/introduce/07-bubble-sort/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Introduce/10_quick_sort/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/introduce/08-select-sort/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Introduce/11_merge_sort/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/introduce/09-insert-sort/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Introduce/12_shell_sort/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/introduce/10-quick-sort/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Introduce/13_search/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/introduce/11-merge-sort/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Introduce/14_tree/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/introduce/12-shell-sort/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Introduce/15_hash/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/introduce/13-search/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/01_array/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/introduce/14-tree/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/02_single_linked_list/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/introduce/15-hash/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/03_cyclic_single_linked_list/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/01-array/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/04_double_linked_list/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/02-single-linked-list/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/05_cyclic_double_linked_list/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/03-cyclic-single-linked-list/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/06_queue/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/04-double-linked-list/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/07_array_queue/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/05-cyclic-double-linked-list/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/08_deque/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/06-queue/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/09_stack/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/07-array-queue/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/10_hashtable/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/08-deque/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/11_dict/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/09-stack/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/12_set/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/10-hashtable/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/13_bubble_sort/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/11-dict/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/14_select_sort/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/12-set/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/15_insert_sort/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/13-bubble-sort/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/16_merge_sort/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/14-select-sort/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/17_quick_sort/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/15-insert-sort/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/18_shell_sort/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/16-merge-sort/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/19_heap_and_heap_sort/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/17-quick-sort/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/20_priority_queue/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/18-shell-sort/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/21_bst/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/19-heap-and-heap-sort/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/DSandAlgo/Code/22_graph/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/20-priority-queue/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/preview/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/21-bst/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/00_warming_up/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/ds-algo/code/22-graph/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/01_what_about_making_trans/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/preview/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/02_ocr/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/00-warming-up/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/03_re/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/01-what-about-making-trans/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/04_follow_the_chain/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/02-ocr/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/05_peak_hell/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/03-re/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/06_now_there_are_pairs/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/04-follow-the-chain/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/07_smarty/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/05-peak-hell/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/08_working_hard/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/06-now-there-are-pairs/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/09_connect_the_dots/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/07-smarty/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/10_what_are_you_looking_at/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/08-working-hard/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/11_odd_even/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/09-connect-the-dots/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/12_dealing_evil/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/10-what-are-you-looking-at/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/13_call_him/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/11-odd-even/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/14_walk_around/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/12-dealing-evil/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/15_whom/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/13-call-him/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/16_let_me_get_this_straight/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/14-walk-around/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/17_eat/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/15-whom/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/18_can_you_tell_the_difference/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/16-let-me-get-this-straight/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/19_please/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/17-eat/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/20_go_away/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/18-can-you-tell-the-difference/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/21_dealing_package-pack/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/19-please/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/22_emulate/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/20-go-away/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/23_what_is_this_module/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/21-dealing-package-pack/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/24_from_top_to_bottom/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/22-emulate/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/25_imagine_how_they_sound/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/23-what-is-this-module/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/26_be_a_man-apologize/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/24-from-top-to-bottom/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/27_between_the_tables/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/25-imagine-how-they-sound/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/28_many_pairs_ring-ring/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/26-be-a-man-apologize/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/29_silence/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/27-between-the-tables/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/30_relax_you_are_on_30/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/28-many-pairs-ring-ring/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/31_where_am_I/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/29-silence/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/32_etch-a-scetch/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/30-relax-you-are-on-30/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Solutions/33_33_bottles_of_beer_on_the_wall/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/31-where-am-i/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/01/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/32-etch-a-scetch/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/02/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/solutions/33-33-bottles-of-beer-on-the-wall/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/03/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/01/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/04/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/02/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/05/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/03/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/06/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/04/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/07/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/05/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/08/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/06/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/09/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/07/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/11/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/08/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/12/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/09/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/13/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/11/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/15/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/12/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/16/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/13/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/17/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/15/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/18/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/16/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/19/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/17/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/20/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/18/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/21/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/19/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/22/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/20/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/23/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/21/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/25/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/22/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/26/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/23/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/27/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/25/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/29/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/26/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/30/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/27/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/31/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/29/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Knowledge/33/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/30/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/base64/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/31/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/BIF/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/knowledge/33/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/binascii/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/base64/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/bz2/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/bif/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/collections/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/binascii/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/datetime/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/bz2/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/difflib/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/collections/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/email/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/datetime/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/file-header/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/difflib/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/gzip/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/email/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/hashlib/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/file-header/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/HttpResponseCode/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/gzip/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/keyword/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/hashlib/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/Linux-CMD/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/http-response-code/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/os/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/keyword/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/pickle/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/linux-cmd/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/Pillow/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/os/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/re/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/pickle/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/requests/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/pillow/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/struct/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/re/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/this/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/requests/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/urllib/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/struct/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/wave/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/this/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/xmlrpc/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/urllib/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/zipfile/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/wave/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://yorkfish.github.io/exercises/PythonChallenge/Summarize/zlib/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/xmlrpc/</loc>
+     <lastmod>2020-12-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/zipfile/</loc>
+     <lastmod>2020-12-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://yorkfish.github.io/exercises/python-challenge/summarize/zlib/</loc>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://yorkfish.github.io/exercises/about/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <lastmod>2020-12-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
